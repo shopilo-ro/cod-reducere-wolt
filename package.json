@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-wolt",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Wolt de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-wolt",
+    "voucher-wolt",
+    "cupon-wolt",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/wolt.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-wolt.git"
+  }
+}
